@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{4ADB1037-F7E5-4F09-9BAD-A421EEF857E7}|">
+  <MonoDevelop.Ide.ItemProperties.WebTransito PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebTransito/Inicio.aspx">
+    <Files>
+      <File FileName="WebTransito/Inicio.aspx" Line="8" Column="1" />
+      <File FileName="WebTransito/Listado.aspx.cs" Line="9" Column="1" />
+      <File FileName="Biblioteca/VehiculoCollection.cs" Line="20" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/derliodev/OneDrive/Universidad/Segundo Año/2aBS-01/Programacion componentes web net/Codigos sem1y2/Solucion Direccion de Transito Final/Biblioteca/VehiculoCollection.cs" relfile="Biblioteca/VehiculoCollection.cs" line="42" column="1" />
+      <Breakpoint file="/Users/derliodev/OneDrive/Universidad/Segundo Año/2aBS-01/Programacion componentes web net/Codigos sem1y2/Solucion Direccion de Transito Final/Biblioteca/VehiculoCollection.cs" relfile="Biblioteca/VehiculoCollection.cs" line="40" column="1" />
+      <Breakpoint file="/Users/derliodev/OneDrive/Universidad/Segundo Año/2aBS-01/Programacion componentes web net/Codigos sem1y2/Solucion Direccion de Transito Final/Biblioteca/VehiculoCollection.cs" relfile="Biblioteca/VehiculoCollection.cs" line="38" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

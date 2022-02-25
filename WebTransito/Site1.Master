@@ -1,0 +1,61 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="WebTransito.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 116px;
+            height: 104px;
+        }
+        .auto-style2 {
+            width: 329px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <table style="width: 100%;">
+                    <tr>
+                        <td class="auto-style2">
+                            <img class="auto-style1" src="imagenes/logo.png" /> <strong>Dirección de Tránsito</strong></td>
+                        <td>
+                            <asp:SiteMapDataSource ID="smdsMapa" runat="server" />
+                            <br />
+                            Seleccione la opción de navegación:<br />
+                            <asp:Menu ID="Menu1" runat="server" BackColor="#B5C7DE" DataSourceID="smdsMapa" DynamicHorizontalOffset="2" Font-Names="Verdana" Font-Size="0.8em" ForeColor="#284E98" StaticSubMenuIndent="10px">
+                                <DynamicHoverStyle BackColor="#284E98" ForeColor="White" />
+                                <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                                <DynamicMenuStyle BackColor="#B5C7DE" />
+                                <DynamicSelectedStyle BackColor="#507CD1" />
+                                <StaticHoverStyle BackColor="#284E98" ForeColor="White" />
+                                <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                                <StaticSelectedStyle BackColor="#507CD1" />
+                            </asp:Menu>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <asp:SiteMapPath ID="SiteMapPath1" runat="server" Font-Names="Verdana" Font-Size="0.8em" PathSeparator=" : ">
+                                <CurrentNodeStyle ForeColor="#333333" />
+                                <NodeStyle Font-Bold="True" ForeColor="#7C6F57" />
+                                <PathSeparatorStyle Font-Bold="True" ForeColor="#5D7B9D" />
+                                <RootNodeStyle Font-Bold="True" ForeColor="#5D7B9D" />
+                            </asp:SiteMapPath>
+                            <br />
+                        </td>
+                    </tr>
+                </table>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

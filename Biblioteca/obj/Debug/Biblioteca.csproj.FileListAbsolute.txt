@@ -1,0 +1,18 @@
+C:\DNY4001\Solucion E5 CE02\Biblioteca\bin\Debug\Biblioteca.dll
+C:\DNY4001\Solucion E5 CE02\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\DNY4001\Solucion E5 CE02\Biblioteca\obj\Debug\Biblioteca.dll
+C:\DNY4001\Solucion E5 CE02\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\DNY4001\Solucion E5 CE03\Biblioteca\obj\Debug\Biblioteca.dll
+C:\DNY4001\Solucion E5 CE03\Biblioteca\bin\Debug\Biblioteca.dll
+C:\DNY4001\Solucion E5 CE03\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\DNY4001\Solucion E5 CE03\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\DNY4001\Solucion Direccion de Transito\Biblioteca\bin\Debug\Biblioteca.dll
+C:\DNY4001\Solucion Direccion de Transito\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\DNY4001\Solucion Direccion de Transito\Biblioteca\obj\Debug\Biblioteca.dll
+C:\DNY4001\Solucion Direccion de Transito\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\ProyectosWeb\Solucion Direccion de Transito\Biblioteca\bin\Debug\Biblioteca.dll
+C:\ProyectosWeb\Solucion Direccion de Transito\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\ProyectosWeb\Solucion Direccion de Transito\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\ProyectosWeb\Solucion Direccion de Transito\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\ProyectosWeb\Solucion Direccion de Transito\Biblioteca\obj\Debug\Biblioteca.dll
+C:\ProyectosWeb\Solucion Direccion de Transito\Biblioteca\obj\Debug\Biblioteca.pdb

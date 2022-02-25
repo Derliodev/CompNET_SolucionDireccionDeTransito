@@ -1,0 +1,120 @@
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\WebTransito.dll.config
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\WebTransito.dll
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\WebTransito.pdb
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\csc.exe
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\csc.exe.config
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\csc.rsp
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\csi.exe
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\csi.exe.config
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\csi.rsp
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\System.AppContext.dll
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\System.Collections.Immutable.dll
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\System.Console.dll
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\System.Diagnostics.Process.dll
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\System.IO.Compression.dll
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\System.IO.FileSystem.dll
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\System.IO.Pipes.dll
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\System.Reflection.Metadata.dll
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\System.Security.AccessControl.dll
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\System.Security.Claims.dll
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\System.Security.Principal.Windows.dll
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\System.Threading.Thread.dll
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\System.ValueTuple.dll
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\System.Xml.XmlDocument.dll
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\System.Xml.XPath.dll
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\vbc.exe
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\vbc.exe.config
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\vbc.rsp
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\VBCSCompiler.exe
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\roslyn\VBCSCompiler.exe.config
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\Biblioteca.dll
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\Biblioteca.pdb
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\obj\Debug\WebTransito.csprojAssemblyReference.cache
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\obj\Debug\WebTransito.csproj.CoreCompileInputs.cache
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\obj\Debug\WebTransito.csproj.CopyComplete
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\obj\Debug\WebTransito.dll
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\obj\Debug\WebTransito.pdb
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ProyectosWeb\Solucion Direccion de Transito\WebTransito\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\WebTransito.dll.config
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\WebTransito.dll
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\WebTransito.pdb
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\csc.exe
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\csc.exe.config
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\csc.rsp
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\csi.exe
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\csi.exe.config
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\csi.rsp
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\System.AppContext.dll
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\System.Console.dll
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\System.IO.Compression.dll
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\System.Security.Claims.dll
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\System.ValueTuple.dll
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\vbc.exe
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\vbc.exe.config
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\vbc.rsp
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\Biblioteca.dll
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\Biblioteca.pdb
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\obj\Debug\WebTransito.csprojAssemblyReference.cache
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\obj\Debug\WebTransito.csproj.CoreCompileInputs.cache
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\obj\Debug\WebTransito.csproj.CopyComplete
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\obj\Debug\WebTransito.dll
+C:\Users\Alina\Desktop\ASP\Semana2\material extra\Solucion Direccion de Transito Final\WebTransito\obj\Debug\WebTransito.pdb

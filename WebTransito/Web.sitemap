@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="Inicio.aspx" title="Inicio"  description="Home Registro de Vehículos">
+    <siteMapNode url="" title="Ingreso de datos"  description="" >
+        <siteMapNode url="Propietarios.aspx" title="Registro de Propietarios"  description="" />
+        <siteMapNode url="Vehiculos.aspx" title="Registro de Vehículos"  description="" />
+    </siteMapNode>
+    <siteMapNode url="Listado.aspx" title="Listado de vehículos"  description="" />
+  </siteMapNode>
+</siteMap>
